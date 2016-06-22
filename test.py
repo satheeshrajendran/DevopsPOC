@@ -1,2 +1,1 @@
-ABCDf
-d
+print "ABCDfd"
